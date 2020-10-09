@@ -1,7 +1,2 @@
 node_modules
 package-lock.json
-.env
-bak.txt
-ignore-bak
-5m_sales_records.csv
-datasetv2.csv
